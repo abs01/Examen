@@ -1,0 +1,46 @@
+#nombre {
+    text-align: left;
+    }
+    #preguntas {
+    
+        margin-top: -10px;
+        text-align: center;
+    
+    }
+    
+    #infopersonal  {
+        
+        text-align: center;
+        font-family: 'Piedra', cursive;
+    
+    }
+    #terminos {
+        text-align: center;
+    }
+    #logo {
+    text-align: left;
+    }
+    #infopersonal h1 {
+        
+      color: blue;
+      font-family: 'Courier New', Courier, monospace;
+    
+    }
+    #flecha p {
+        text-align:right;
+        float: left;
+    
+    color: green;
+    
+    }
+    
+    body h1{
+        text-align: center;
+        color: red;
+    }
+    
+    #flecha {
+            text-align:right;
+            float: right;
+    
+    margin-top: -50px;}
